@@ -1,4 +1,4 @@
-# Bash-Scripting-Error-Solve
+# Syntax error: Bad for loop variable
 # Error 1: Syntax error: Bad for loop variable
 If you face the following error When you are trying to run a bash script
 
